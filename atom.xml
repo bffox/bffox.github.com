@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[博狐小站]]></title>
+  <link href="http://bffox.github.com/atom.xml" rel="self"/>
+  <link href="http://bffox.github.com/"/>
+  <updated>2012-09-23T02:46:25+08:00</updated>
+  <id>http://bffox.github.com/</id>
+  <author>
+    <name><![CDATA[搶劫>>龍]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[wolaile]]></title>
+    <link href="http://bffox.github.com/wolaile.html"/>
+    <updated>2012-09-23T02:44:00+08:00</updated>
+    <id>http://bffox.github.com/wolaile</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
